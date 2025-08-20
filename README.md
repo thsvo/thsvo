@@ -11,7 +11,7 @@
 <!-- QUICK LINKS -->
 <p align="center">
  <a href="https://leetcode.com/u/thsvo/"><img src="https://img.shields.io/badge/LeetCode-thsvo-FFA116?style=for-the-badge&logo=leetcode" /></a>
-  <a href="https://www.hackerrank.com/profile/torikulhssn"><img src="https://img.shields.io/badge/HackerRank-torikulhssn-2EC866?style=for-the-badge&logo=hackerrank" /></a>
+  <a href="https://www.hackerrank.com/profile/thsvo"><img src="https://img.shields.io/badge/HackerRank-torikulhssn-2EC866?style=for-the-badge&logo=hackerrank" /></a>
   <a href="https://codeforces.com/profile/thsvo"><img src="https://img.shields.io/badge/Codeforces-thsvo-1F8ACB?style=for-the-badge&logo=codeforces" /></a>
   <a href="mailto:imthsvo@gmail.com"><img src="https://img.shields.io/badge/Email-imthsvo%40gmail.com-informational?style=for-the-badge&logo=gmail" /></a>
   <a href="https://linkedin.com/in/thsvo"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
