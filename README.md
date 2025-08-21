@@ -102,7 +102,7 @@
 **Stack:** Next.js (v15.3.3) + TypeScript + TailwindCSS + GSAP + Lenis  
 - Animation-rich, high-performance frontend with responsive UI  
 - Implemented authentication for secure, smooth UX  
-🔗 [Live](https://alanwalker-phi.vercel.app/en)
+🔗 [Live](https://wow-platform.vercel.app/)
 
 ### 4️⃣ Daimoon Media
 **Stack:** Node.js + Express + Headless WordPress CMS + multiple platform APIs  
